@@ -30,7 +30,7 @@ body{
 }
 .navbar{
     box-shadow: 10px 5px 40px rgba(128, 128, 128, 0.836);
-    background-color: #F43353;
+    background-color: #33e7f4;
     padding: 1% 7%;
     text-align: center;
 }
@@ -98,8 +98,8 @@ body{
 }
 .recipe-images{
     display: flex;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 140px;
+    margin-right: 80px;
     margin-bottom: 100px;
 }
 .recipe-card-one{
