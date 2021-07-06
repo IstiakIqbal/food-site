@@ -98,8 +98,8 @@ body{
 }
 .recipe-images{
     display: flex;
-    margin-left: 140px;
-    margin-right: 80px;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 100px;
 }
 .recipe-card-one{
